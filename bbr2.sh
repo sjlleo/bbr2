@@ -17,6 +17,9 @@
 		centos_install
 	else
 		echo -e "Support Linux LBS CentOS ONLY"
+		echo -e "Script Deleting...."
+		rm -f bbr2.sh
+		exit 1
 	fi
 }
 
