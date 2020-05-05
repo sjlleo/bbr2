@@ -21,7 +21,6 @@
 }
 
 centos_install(){
-	yum -y install git
 	mkdir centos
 	cd centos
 	wget https://asset.obus.me/recourse/bbr2/kernel-headers-5.4.0_rc6-1.x86_64.rpm
