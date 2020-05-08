@@ -26,8 +26,8 @@
 centos_install(){
 	mkdir centos
 	cd centos
-	wget https://asset.obus.me/recourse/bbr2/kernel-headers-5.4.0_rc6-1.x86_64.rpm
-	wget https://asset.obus.me/recourse/bbr2/kernel-5.4.0_rc6-1.x86_64.rpm
+	wget https://asset.obus.me/recourse/bbr2/kernel-headers-5.4.0_rc6-1.x86_64.rpm -O kernel-headers-5.4.0_rc6-1.x86_64.rpm
+	wget https://asset.obus.me/recourse/bbr2/kernel-5.4.0_rc6-1.x86_64.rpm -O kernel-5.4.0_rc6-1.x86_64.rpm
 	yum -y localinstall *
 	grub2-set-default 0
 	echo "tcp_bbr" >> /etc/modules-load.d/tcp_bbr.conf
