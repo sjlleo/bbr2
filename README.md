@@ -36,6 +36,7 @@ One-key Install BBR2 Kernel
 |      Gcorelabs       |       ✔        |        ✔         |
 |        RuVDS         |       ✔        |        ✔         |
 |       ChangeiP       |       ✔        |        ✔         |
+|      iTools.mn       |       ✔        |        ✔         |
 |       HostVDS        |       ✔        |        ✔         |
 |      CloudCone       |       ✔        |        ✔         |
 |       TMWHost        |       ✔        |        ✔         |
@@ -59,3 +60,6 @@ One-key Install BBR2 Kernel
 |      Digital-VM      |       ✔        |        ✔         |
 |        OneVPS        |       ✔        |        ✔         |
 |      AkkoCloud       |       ✔        |        ✔         |
+|        BuyVM         |       ✔        |        ✔         |
+|       UnixServ       |       ✔        |        ✔         |
+|     gslnetworks      |       ✔        |        ✔         |
