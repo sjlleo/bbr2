@@ -45,11 +45,17 @@ One-key Install BBR2 Kernel
 |      CenterHop       |       ✔        |        ✔         |
 |        MaxKVM        |       ✔        |        ✔         |
 |       nusa.id        |       ✔        |        ✔         |
+|        daceni        |       ❌        |        ✔         |
 |   CoalCloud [碳云]   |       ✔        |        ✔         |
 |         速云         |       ✔        |        ✔         |
 |    Uovz [咕咕云]     |       ✔        |        ✔         |
+|        修罗云        |       ✔        |        ✔         |
+|       NatHosts       |       ✔        |        ✔         |
 |       HostYun        |       ✔        |        ✔         |
 |  Hostmsu NAT 小内存  |       ✔        |        ✔         |
 |      Nero Cloud      |       ✔        |        ✔         |
 |      FxTransit       |       ✔        |        ✔         |
 |       Banwagon       |       ✔        |        ✔         |
+|      Digital-VM      |       ✔        |        ✔         |
+|        OneVPS        |       ✔        |        ✔         |
+|      AkkoCloud       |       ✔        |        ✔         |
